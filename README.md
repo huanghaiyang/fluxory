@@ -20,7 +20,7 @@ getCurrentPosition([actionType])
 ```
 
 # mocha test sample
-```
+```javascript
 var flightDispatcher = new Dispatcher();
 
 var CityStore = {
