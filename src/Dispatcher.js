@@ -1,7 +1,5 @@
 'use strict'
 
-const Dispatcher = require('flux-dispatcher-packer')(require('flux').Dispatcher)
-
 const invariant = require('invariant');
 
 const _ = require('lodash')
